@@ -1,0 +1,49 @@
+{
+    "source_image_width": 1920,
+    "source_image_height": 1080,
+    "source_points_px": [
+        [
+            912,
+            526
+        ],
+        [
+            1160,
+            525
+        ],
+        [
+            1498,
+            940
+        ],
+        [
+            548,
+            924
+        ]
+    ],
+    "destination_width_px": 800,
+    "destination_height_px": 600,
+    "homography": [
+        [
+            -1.1838014502926975,
+            -1.0826726831822653,
+            1649.1127540208115
+        ],
+        [
+            -0.00829081818829027,
+            -2.0561229106959367,
+            1089.0818772137834
+        ],
+        [
+            -2.8904603767656595e-05,
+            -0.0025381968985836857,
+            1.0
+        ]
+    ],
+    "point_order": [
+        "top_left",
+        "top_right",
+        "bottom_right",
+        "bottom_left"
+    ],
+    "physical_scale": null,
+    "status": "pixel-calibrated; physical scale not established"
+}
